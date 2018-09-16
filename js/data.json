@@ -1,0 +1,34 @@
+{
+  "cart":[
+    {
+    "url":"https://www.amazon.com/dp/B06XKS289S/ref=sspa_dk_detail_2?psc=1",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51bHv4Wp6hL._SL1001_.jpg",
+    "name":"Echo Dot (2nd Generation) - Black",
+    "seller":"Ömer Yaldirgan",
+    "isStock":true,
+    "isKargo":true
+  },
+   {
+   "url":"https://www.amazon.com/",
+   "image":"https://images-na.ssl-images-amazon.com/images/I/61qc5w63VdL._SL1400_.jpg",
+   "name":"Magic Pro Drone",
+   "seller":"Quaresma Yaldirgan",
+   "isStock":false,
+   "isKargo":true
+  }
+
+],
+
+
+"saved":[{
+  "url":"https://www.amazon.com/",
+  "image":"https://images-na.ssl-images-amazon.com/images/I/51bHv4Wp6hL._SL1001_.jpg",
+  "name":"Echo Dot",
+  "seller":"Fikret Orman",
+  "isStock":true,
+  "isKargo":true
+
+  }]
+
+
+}
